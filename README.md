@@ -60,6 +60,7 @@ First, I imported the soccer dataset, as soccer interests me the most. I was una
 I think that the prediction algorithm is quite nice. Lastly, I also calculated "Mean Absolute Error", "Mean Squared Error" and "Root Mean Squared Error" for the scores for each team. These results can be seen in the Jupyter Notebook.
 
 My reason for splitting date:
+
 I think that each team may change their form based on year, month or even season. I belive that, in future a column or feature which defines season, may be added, as that would make a lot more sense.
 
 Plot and error calculation reference: https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f.
